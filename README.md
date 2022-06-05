@@ -7,3 +7,5 @@ Kiwisaver calculator using Streamlit
 3. Install packages: `pip install -r requirements.txt`
 4. Start the app: `streamlit run app.py`
 5. A new browser tab is created to show the app:
+
+<img src="Kiwisaver_app_example.png">
